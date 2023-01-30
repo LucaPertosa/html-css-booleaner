@@ -1,3 +1,30 @@
-*{
-    
+
+
+/* header */
+#logo-background{
+    background-image: url(../img/pattern.png);
+    background-color: cornflowerblue;
+    background-size: 400px;
+    background-repeat: repeat;
+    height: 100px;
+    position: relative;
+}
+
+.logo{
+    width: 200px;
+    position: absolute;
+    bottom: 0;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.date, .sub-title{
+    color: grey;
+    margin: 0;
+}
+.web-site{
+    text-decoration: none;
+    color: darkcyan;
 }
