@@ -15,16 +15,71 @@
     position: absolute;
     bottom: 0;
 }
+/* /header */
 
+/* main */
+/* page title */
 h1{
     margin-bottom: 0;
+    font-size: 2.4rem;
 }
 
 .date, .sub-title{
     color: grey;
     margin: 0;
+    font-size: 1.3rem;
 }
+
 .web-site{
     text-decoration: none;
     color: darkcyan;
 }
+/* /page title */
+
+/* img */
+.img-section{
+    margin-top: 15px;
+}
+
+.img-paragraph{
+    margin-top: 1px;
+    font-size: 0.8rem;
+}
+/* /img */
+
+/* article */
+.article{
+    font-size: 1.2rem;
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.highlight{
+    background: yellow;
+}
+
+table{
+    border-collapse: collapse;
+}
+th{
+    width: 20%;
+    text-align: left;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.th-big{
+    width: 60%;
+}
+
+.row-color1{
+    background-color: aqua;
+}
+
+/* /article */
+
+/* footer */
+
+/* /footer */
+
+/* /main */
