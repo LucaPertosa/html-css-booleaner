@@ -79,7 +79,34 @@ th{
 /* /article */
 
 /* footer */
+.see-more{
+    color: grey;
+    font-size: 1.3rem;
+}
 
+.link1{
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    color: white;
+}
+
+.link1>h4{
+    padding: 10px;
+}
+
+.link2{
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    color: white;
+}
+
+.link2>h4{
+    padding: 10px;
+}
 /* /footer */
 
 /* /main */
